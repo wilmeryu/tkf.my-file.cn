@@ -1,0 +1,7 @@
+修复日志 2020年6月14日
+进入战局后同时开启【诅咒】【排山倒海】【BOSS】难度准备后，会报Cannot read property ‘names’ of undefined的错误 -已修复！
+移动物品时有时候会报错 -已修复！
+TypeError: Cannot read property ‘StackObjectsCount’ of undefined
+在主菜单界面使用夹板会报错 -已修复！
+机械师挖矿Part.2任务修复
+
